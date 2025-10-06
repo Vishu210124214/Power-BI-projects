@@ -1,5 +1,6 @@
 # Power-BI-projects
 # 🍕 Pizza Sales Analysis Dashboard (Power BI)
+<img width="1338" height="740" alt="Screenshot 2025-10-05 181741" src="https://github.com/user-attachments/assets/766dac21-a52c-4ece-9894-a162350818c7" />
 
 ## 📘 Project Overview
 This project presents a comprehensive **Pizza Sales Analysis Dashboard** built using **Microsoft Power BI**.  
@@ -80,4 +81,3 @@ CALCULATE(
     FILTER(ALLSELECTED(orders), orders[date] <= MAX(orders[date]))
 )
 
-<img width="1338" height="740" alt="Screenshot 2025-10-05 181741" src="https://github.com/user-attachments/assets/766dac21-a52c-4ece-9894-a162350818c7" />
